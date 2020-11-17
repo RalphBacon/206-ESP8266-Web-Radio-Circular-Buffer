@@ -4,7 +4,9 @@ As I ported it to an ESP8266 you might as well have a look (no TFT screen suppor
 What is going on with my ESP32's WiFi connection?  
 JLCPCB Only $2 for PCB Prototype any colour https://jlcpcb.com/  
 
-So we look at WiFi connectivity issues with my ESP32 Dev Board (Revision 0) and then compare its Internet performance with a faultless Wemos Lolin NodeMCU V3.  
+<img src="/images/BROKEN.gif">
+
+So we look at WiFi connectivity issues with my ESP32 Dev Board (Revision 0) and then compare its Internet performance with a faultless Wemos Lolin NodeMCU V3 ESP8266.  
 
 We also take a good look at circular buffers which are built into the ESP32 core.  
 
