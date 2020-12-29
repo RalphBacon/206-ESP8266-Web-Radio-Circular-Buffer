@@ -10,6 +10,8 @@ So we look at WiFi connectivity issues with my ESP32 Dev Board (Revision 0) and 
 
 We also take a good look at circular buffers which are built into the ESP32 core.  
 
+For constructional details of my ESP32 Web Radio (plus components list) see:  
+https://github.com/RalphBacon/205-Internet-Radio/tree/main/ESP32-Web-Radio-Construction
 
 ### INFORMATION  
 
